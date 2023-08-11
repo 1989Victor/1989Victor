@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1989Victor
+- 👋 Hi, I’m Akibami_victor
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning sql
 - 💞️ I’m looking to collaborate to maste this tool
