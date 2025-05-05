@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Akibami_victor
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning sql
-- 💞️ I’m looking to collaborate to maste this tool
-- 📫 How to reach me, through my email (akinbami.victor@gmail.com)
+- 👋Hi, I’m Akinbami Victor
+- 👀I'm a data enigineer
+- 📫How to reach me, through my email (akinbami.victor@gmail.com)
 
 <!---
 1989Victor/1989Victor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
